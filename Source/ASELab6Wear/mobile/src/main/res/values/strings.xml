@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ASELab6Wear</string>
+    <string name="show_notification">Show the Notification</string>
+</resources>
